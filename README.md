@@ -1,0 +1,2 @@
+# Indian-Railway-App-Demo
+Indian Railways App belongs to Travel Category. It is designed to get user specific train related information.Railway API maintains a huge and updated collection of Trains and Stations data along with features like Seat Availability and Fare Enquiry collected from various sources and then normalized.This data is made available through a powerful RESTful API in a structured JSON format. We have used the REST API provided by indianrailways.
